@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>BurgerCsv</name>
+   <tag></tag>
+   <csv-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>TestData/ItemLst.csv</source-url>
+      <source-type>CSV</source-type>
+      <sheet-name-or-separator>COMMA</sheet-name-or-separator>
+      <is-using-relative-path>true</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </csv-source-info>
+   <taken-date>2024-05-28T22:37:04.715+07:00</taken-date>
+   <column-names>
+      <column-name>Items</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "About",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Logout",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Reset App State",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

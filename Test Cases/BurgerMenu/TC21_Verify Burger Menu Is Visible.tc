@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC21_Verify Burger Menu Is Visible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c34f1e9c-bf16-4441-8efc-fdb3dc695225</testCaseGuid>
+</TestCaseEntity>

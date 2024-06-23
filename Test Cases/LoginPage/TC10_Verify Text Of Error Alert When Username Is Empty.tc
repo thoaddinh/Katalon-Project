@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_Verify Text Of Error Alert When Username Is Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df12b89c-a0c2-4192-a9af-7c7b96a0bab9</testCaseGuid>
+</TestCaseEntity>

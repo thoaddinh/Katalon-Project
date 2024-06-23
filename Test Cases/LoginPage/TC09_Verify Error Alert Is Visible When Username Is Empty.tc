@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09_Verify Error Alert Is Visible When Username Is Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f521e7c-dd46-490a-a405-1f6c4a17f4e3</testCaseGuid>
+</TestCaseEntity>

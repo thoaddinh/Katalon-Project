@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>TitleStartTestingTestDataExcel</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/TitleStartTestingExcel</source-url>
+   </source-info>
+   <taken-date>2024-05-29T00:54:53.861+07:00</taken-date>
+   <column-names>
+      <column-name>Title</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Start testing in minutes",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Already have an account?",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

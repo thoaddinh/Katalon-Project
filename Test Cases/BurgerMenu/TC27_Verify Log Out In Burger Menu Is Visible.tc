@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC27_Verify Log Out In Burger Menu Is Visible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aad42ea3-cc6d-4ef5-a081-e6eda8e6580a</testCaseGuid>
+</TestCaseEntity>

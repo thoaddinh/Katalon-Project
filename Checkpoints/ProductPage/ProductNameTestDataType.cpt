@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>ProductNameTestDataType</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/ProductNameInternalData</source-url>
+   </source-info>
+   <taken-date>2024-05-28T21:50:54.955+07:00</taken-date>
+   <column-names>
+      <column-name>ProductName</column-name>
+      <column-name>Price</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Sauce Labs Backpack",
+      "checked": false
+    },
+    {
+      "value": "$29.99",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

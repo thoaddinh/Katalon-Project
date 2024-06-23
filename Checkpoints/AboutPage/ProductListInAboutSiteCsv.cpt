@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>ProductListInAboutSiteCsv</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/ProductListInAboutSiteCsv</source-url>
+   </source-info>
+   <taken-date>2024-05-28T22:54:21.945+07:00</taken-date>
+   <column-names>
+      <column-name>Products</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Platform for Test",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sauce Cross-Browser",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sauce Mobile",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sauce Orchestrate",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sauce Low-Code",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sauce Error Reporting",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sauce API Quality",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sauce Visual",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

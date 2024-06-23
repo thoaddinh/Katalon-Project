@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>AccountLoginTestDataType</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginAccountInternalData</source-url>
+   </source-info>
+   <taken-date>2024-05-28T21:49:44.417+07:00</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+      <column-name>Product</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "standard_user",
+      "checked": false
+    },
+    {
+      "value": "secret_sauce",
+      "checked": false
+    },
+    {
+      "value": "Products",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "locked_out_user",
+      "checked": false
+    },
+    {
+      "value": "secret_sauce",
+      "checked": false
+    },
+    {
+      "value": "Products",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC29_Verify Reset App State In Burger Menu Is Visible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5044016-eaf8-48cf-95c7-19d74fe1fc37</testCaseGuid>
+</TestCaseEntity>
